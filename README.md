@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 # 
 
+![](https://komarev.com/ghpvc/?username=itishprasad30&color=blue&style=plastic)
+<br>
+![Itish's GitHub stats](https://github-readme-stats.vercel.app/api?username=itishprasad30&show_icons=true&theme=tokyonight)
+
 
 Hey there, welcome!  
 I'm Itish Prasad Sahoo, Front End developer from  **Cuttack, India**.
@@ -36,3 +40,5 @@ I'm Itish Prasad Sahoo, Front End developer from  **Cuttack, India**.
 
 [![Codepen](https://camo.githubusercontent.com/fa7600152943050ca3e454f300415ffeeb1051a21da7894a74a99e19d18a1baa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d436f646570656e2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d636f646570656e266c6f676f436f6c6f723d7768697465)](https://codepen.io/Itish_Prasad)  [![LinkedIn](https://camo.githubusercontent.com/f4ee3825bee1ba1fe8ba93c3903dd2f1b7af9ff0f7fbc8fe036fe4386f574705/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/itish-prasad-sahoo-2155b7218/)  [![Twitter](https://camo.githubusercontent.com/72b90db8b403b8087e20699857f05cb0a201f2ddfa8439783d3ef17cee0eea02/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547769747465722d3144413146323f7374796c653d666f722d7468652d6261646765266c6f676f3d54776974746572266c6f676f436f6c6f723d7768697465)](https://twitter.com/Itish_prasad)  [![Gmail](https://camo.githubusercontent.com/3497f4f7905bf0a72f7a79d7390c46fd6b573d21709baab33f490d70ecc82504/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d4541343333353f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465)](itishprasad30@gmail.com)  [![Instagram](https://camo.githubusercontent.com/dce7687c60410de8198af193f1c97a2cfd4b033c568fbb6d19a5f3c004daa900/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465)](https://www.instagram.com/itishprasad30/)
 
+<li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me <strong><a href="mailto:itishprasad30@gmail.com">itishprasad30@gmail.com</a></strong>
+<br><br></li>
