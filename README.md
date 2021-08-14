@@ -44,3 +44,6 @@ I'm Itish Prasad Sahoo, Front End developer from  **Cuttack, India**.
 
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me <strong><a href="mailto:itishprasad30@gmail.com">itishprasad30@gmail.com</a></strong>
 <br><br></li>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itishprasad30&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+
