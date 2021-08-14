@@ -1,4 +1,6 @@
 ### <img src="https://camo.githubusercontent.com/4cc9a57bfd6f608470e752bb84f004b658b65866dffbf9d73abe425745d4133f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f54683357616c6c2f6173736574732d63646e2f506572736f6e616c476974687562526561646d652f48616e6447726565742e676966 " height="30px" width="35px"></img> **Hi, I'm Itish**
+<!-- 
+<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" style="max-width:100%;"> -->
 
 <!--
 **itishprasad30/itishprasad30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
