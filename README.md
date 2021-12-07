@@ -14,8 +14,9 @@ Hey there, welcome!
 I'm Itish Prasad Sahoo, Web Devloper from  **Cuttack, India**.
 
 💡  I like to explore new trends and learn new technologies.  
-🌱  I'm on track for learning more about  [React](https://reactjs.org/),  [Redux](https://redux.js.org/)  , [NextJS](https://nextjs.org/), [Recoil](https://recoil.org)    
-🚧  I'm currently working on FullStack Project  👀.  
+🌱  I'm on track about  [React](https://reactjs.org/),  [Redux](https://redux.js.org/)  , [NextJS](https://nextjs.org/), [Recoil](https://recoil.org) , [Tailwind CSS] (https://Tailwind.com)
+
+🚧  I'm currently working on FullStack Project .  
 ⚡ Fun fact: while i coding i like to listen Music.
 💬  Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.
 
