@@ -16,6 +16,9 @@ I'm Itish Prasad Sahoo, Full Stack Javascript Developer from  **Cuttack, India**
 💡  I like to explore new trends and learn new technologies.  
 🌱  I'm on track about  Javascript , [Typescript](https://www.typescriptlang.org/), [React](https://reactjs.org/),   [NextJS](https://nextjs.org/), [Recoil](https://recoil.org) , [Tailwind Css](https://tailwindcss.com/)
 
+for backend java is a powerful language to use.
+Also doing Some Java DSA Bootcamp learing is updating on Java github repo.
+
 🚧  I'm currently working on FullStack Project.  
 ⚡ Fun fact: while i coding i like to listen Music.
 
